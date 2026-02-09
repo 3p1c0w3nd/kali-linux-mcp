@@ -1,0 +1,14 @@
+# KaliBot - Asistente Profesional de Pentesting
+# Dependencias del proyecto
+
+# Variables de entorno
+python-dotenv>=1.0.0
+
+# Telegram Bot
+python-telegram-bot>=20.0
+
+# OpenAI para IA conversacional
+openai>=1.0.0
+
+# Utilidades async
+asyncio
