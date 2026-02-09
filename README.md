@@ -1,7 +1,7 @@
 # 🔐 KaliBot - AI-Powered Pentesting Assistant
 
 <p align="center">
-  <img src="demo.gif" alt="KaliBot Demo" width="600"/>
+  <img src="demo.gif" alt="KaliBotMCP Demo" width="600"/>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## Overview
 
-KaliBot combines the power of Kali Linux pentesting tools with OpenAI's GPT models and the Model Context Protocol (MCP) to create an intelligent, conversational security assistant accessible through Telegram.
+KaliBotMCP combines the power of Kali Linux pentesting tools with OpenAI's GPT models and the Model Context Protocol (MCP) to create an intelligent, conversational security assistant accessible through Telegram.
 
 Instead of memorizing complex command syntax, users can interact with security tools using natural language in Colombian Spanish, making pentesting more accessible while maintaining the full capabilities of native Kali tools.
 
@@ -359,7 +359,7 @@ This project is **for educational and research purposes only**. Using pentesting
 
 The authors are not responsible for misuse of this software. Always practice ethical hacking and obtain proper certifications (OSCP, CEH, etc.).
 
-**Use KaliBot only on:**
+**Use KaliBotMCP only on:**
 - Your own systems
 - Authorized testing environments (HackTheBox, TryHackMe)
 - Legally contracted security audits
