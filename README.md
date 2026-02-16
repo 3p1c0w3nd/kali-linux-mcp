@@ -1,7 +1,7 @@
 # 🔐 KaliBot - AI-Powered Pentesting Assistant
 
 <p align="center">
-  <img src="demo.gif" alt="KaliBotMCP Demo" width="600"/>
+  <img src="ccc-1.gif" alt="KaliBotMCP Demo" width="600"/>
 </p>
 
 <p align="center">
